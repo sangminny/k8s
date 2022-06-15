@@ -1,2 +1,2 @@
 # k8s
-k8s Study
+k8s 를 공부하는 과정에서 여러 강사분들의 좋은 리소스를 모아두고자 만든 Repository
